@@ -1,0 +1,6 @@
+{
+  "path_to_dataset": "/home/sowmya_kanuri/PycharmProjects/receipt_transaction_matching/dataset/data_interview_test_filtered.csv",
+  "path_to_save_model": "/home/sowmya_kanuri/PycharmProjects/receipt_transaction_matching/saved_models/",
+  "path_to_test_file": "/home/sowmya_kanuri/PycharmProjects/receipt_transaction_matching/dataset/sample_test_file.csv",
+  "path_to_save_test_results": "/home/sowmya_kanuri/PycharmProjects/receipt_transaction_matching/dataset/"
+}

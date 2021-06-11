@@ -1,0 +1,6 @@
+,receipt_id,company_id,matched_transaction_id,feature_transaction_id,DateMappingMatch,AmountMappingMatch,DescriptionMatch,DifferentPredictedTime,TimeMappingMatch,PredictedNameMatch,ShortNameMatch,DifferentPredictedDate,PredictedAmountMatch,PredictedTimeCloseMatch,matching_scores
+0,20208,20000,20367,20171,0.65,0,0,1,0,0.0,0,0,0,0,0.5976262131191528
+1,20208,20000,20367,20365,0.0,0,0,1,0,0.0,0,1,0,0,0.15458934648971323
+2,20208,20000,20367,20366,0.95,0,0,1,0,0.0,0,0,0,0,0.788796749167946
+3,20208,20000,20367,20367,0.95,0,0,1,0,0.8,1,0,0,0,0.2308936964819254
+4,20208,20000,20367,20368,0.95,0,0,1,0,0.8,1,0,0,0,0.23089369648192554
